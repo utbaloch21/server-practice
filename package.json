@@ -1,0 +1,9 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "practice node",
+  "main": "index.js",
+  "repository": "https://github.com/utbaloch21/server-practice.git",
+  "author": "Osama Tariq",
+  "license": "MIT"
+}
